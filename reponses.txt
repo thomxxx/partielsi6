@@ -1,0 +1,20 @@
+DELATTRE THOMAS
+
+1/ Ce mot-clé est une référence sur l'objet en cours, c'est à dire la classe dans laquelle on se trouve.
+
+2/ Ce mot-clé est une référence sur la classe mère, c'est à dire la classe dont hérite la classe en cours.
+
+3/ Action d’instancier, d’initialiser un objet a partir d'une classe
+
+4/ L'objet est l'instance d'une classe.
+A partir d'une classe, on fais plusieurs objet.
+On fais souvent la référence avec le moule a gateau ( classe ) et le gateau ( objet ).
+
+5/ Dans un test unitaire, les mocks peuvent simuler le comportement d'objets réels.  C'est donc des objets simulés qui reproduisent le comportement d'objets réels de manière contrôlée.
+
+6/ C'est une maniére de concevoir un logiciel lié a une base de donnée par exemple. On utilise le MCD par exemple  et donn e lieu a la cration du code d'acces aux données.
+
+7/ Acronyme Rapid Application Development. Ce sont des logiciels utilisables dans le cadre du développement rapide d'applications.
+Par Exemple Eclipse l'outil qu'on utilise est un RAD.
+
+8/ Lorsqu'on fais une erreur de frappe d'une variable par exemple et qu'on souhaite la renommer alors on utilice cette fonctionnalité afin de la remplacer dans tout le projet. On appele ca le réusinage de code. Definition : opération consistant à retravailler le code source d'un programme informatique, sans toutefois y ajouter des fonctionnalités ni en corriger les bogues.
